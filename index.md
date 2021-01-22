@@ -85,14 +85,11 @@ Looking for a challenging role in a reputable organization to utilize my technic
 <font face="HP Simplified Light" size="5"><b>TECHNICAL AND EXTRA-CURRICULAR ACHIEVEMENTS</b></font><hr width="60%" color="black" align="left">
 <font size="3">
 	<ul>
-<li><b>Online Professional Writer</b> (2018-2021)
-<li><b>District Level Cricketer </b>(2017)
-<li>1-day workshop,<b> arduino </b> by MRU (2019) 
+		<li><b>Online Professional Writer</b> (2018-2021)</li>
+		<li><b>District Level Cricketer </b>(2017)</li>
+		<li>1-day workshop,<b> arduino </b> by MRU (2019) </li>
 
 </ul>
 </font>
-
-
-
 </body>
 </html>
