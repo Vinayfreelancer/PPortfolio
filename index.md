@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>RESUME</title>
+RESUME
 <link rel="stylesheet" href="style.css">
 </head>
 <body style="Calibri">
